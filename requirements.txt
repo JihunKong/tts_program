@@ -1,7 +1,3 @@
 streamlit
-torch
-transformers
-soundfile
+gTTS
 PyGithub
-scipy
-numpy
